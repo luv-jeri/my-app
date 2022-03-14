@@ -7,6 +7,18 @@
   pointer-events: none;
 }
 
+.one {
+  background-color: #E45826;
+  padding: 2rem;
+  
+}
+.two {
+  background-color: #1B1A17;
+  padding: 2rem;
+  color : #F5F5F5
+
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
